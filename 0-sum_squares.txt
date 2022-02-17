@@ -1,0 +1,7 @@
+Accept the argument to represent n
+
+sum = 0
+for i=1 to n do
+  sum = sum + (i*i)
+    Next i
+print sum of squares
